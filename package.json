@@ -34,7 +34,7 @@
     "@hookform/resolvers": "^2.9.11",
     "@mui/icons-material": "^5.11.9",
     "@mui/lab": "^5.0.0-alpha.143",
-    "@mui/material": "^5.11.10",
+    "@mui/material": "^5.14.18",
     "@mui/x-date-pickers": "^5.0.20",
     "@types/react-toastify": "^4.1.0",
     "advanced-css-reset": "^1.2.2",
